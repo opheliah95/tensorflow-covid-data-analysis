@@ -11,6 +11,8 @@ pandas = "*"
 matplotlib = "*"
 boto3 = "*"
 python-dotenv = "*"
+scikit-learn = "*"
+scipy = "*"
 
 [dev-packages]
 
